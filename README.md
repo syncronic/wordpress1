@@ -40,3 +40,4 @@ Then to run the tests, just execute following.
 ```
 $ bundle exec rake spec
 ```
+# wordpress1
